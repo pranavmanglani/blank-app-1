@@ -20,4 +20,3 @@ edu_year = st.sidebar.text_input("Year of Graduation")
 
 st.sidebar.header("Experience")
 job_title = st.sidebar.text_input("Job Title")
-company
